@@ -1,4 +1,0 @@
-﻿  main.c
-D:\Projects Folder\LeetCode\BurstingBalloons\main.c(49,8): warning C4013: 'memset'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-D:\Projects Folder\LeetCode\BurstingBalloons\main.c(85,8): warning C4013: 'memcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  BurstingBalloons.vcxproj -> D:\Projects Folder\LeetCode\BurstingBalloons\Debug\BurstingBalloons.exe

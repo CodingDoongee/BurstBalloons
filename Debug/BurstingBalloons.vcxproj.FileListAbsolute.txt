@@ -1,2 +1,0 @@
-D:\Projects Folder\LeetCode\BurstingBalloons\Debug\BurstingBalloons.exe
-D:\Projects Folder\LeetCode\BurstingBalloons\Debug\BurstingBalloons.pdb
