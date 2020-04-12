@@ -1,5 +1,6 @@
 .vs
 .Debug
+Debug/
 BurstingBalloons.sln
 BurstingBalloons.vcxproj
 BurstingBalloons.vcxproj.filters
